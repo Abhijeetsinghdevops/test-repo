@@ -1,7 +1,7 @@
 hi from abhijeet
 {
-	hello
-		hey
+	hello from dev2
+		hey from dev2  modi
 
 edit file from abhi
 }
